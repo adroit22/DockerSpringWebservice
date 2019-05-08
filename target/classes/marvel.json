@@ -1,0 +1,96 @@
+[  
+      {  "id": 1,
+         "alter_ego":"Spider-Man",
+         "real_name":"Peter Benjamin Parker",
+         "know_more":"http://marvel.com/characters/54/spider-man"
+      },
+      {  
+		 "id": 2,
+         "alter_ego":"Captain Marvel",
+         "real_name":"Carol Danvers",
+         "know_more":"http://marvel.com/characters/9/captain_marvel"
+      },
+      {  
+		 "id": 3,
+         "alter_ego":"Hulk",
+         "real_name":"Robert Bruce Banner",
+         "know_more":"http://marvel.com/characters/25/hulk"
+      },
+      {  
+		 "id": 4,
+         "alter_ego":"Black Widow",
+         "real_name":"Natalia 'Natasha' Alianovna Romanova",
+         "know_more":"http://marvel.com/characters/6/black_widow"
+      },
+      {  
+		 "id": 5,
+         "alter_ego":"Daredevil",
+         "real_name":"Matthew Michael Murdock",
+         "know_more":"http://marvel.com/characters/11/daredevil"
+      },
+      {  "id": 6,
+         "alter_ego":"Wolverine",
+         "real_name":"James Howlett",
+         "know_more":"http://marvel.com/characters/66/wolverine"
+      },
+      {  "id": 7,
+         "alter_ego":"Captain America",
+         "real_name":"Steven Rogers",
+         "know_more":"http://marvel.com/characters/8/captain_america"
+      },
+      {  "id": 8,
+         "alter_ego":"Iron Man",
+         "real_name":"Anthony Edward 'Tony' Stark",
+         "know_more":"http://marvel.com/characters/29/iron_man"
+      },
+      {  "id": 9,
+         "alter_ego":"Thor",
+         "real_name":"Thor Odinson",
+         "know_more":"http://marvel.com/characters/60/thor"
+      },
+      {  "id": 10,
+         "alter_ego":"Dr. Doom",
+         "real_name":"Victor von Doom",
+         "know_more":"http://marvel.com/characters/13/dr_doom"
+      },
+      {  "id": 11,
+         "alter_ego":"Mystique",
+         "real_name":"Unrevealed",
+         "know_more":"http://marvel.com/characters/1552/mystique"
+      },
+      {  "id": 12,
+         "alter_ego":"Red Skull",
+         "real_name":"Johann Shmidt",
+         "know_more":"http://marvel.com/characters/1901/red_skull"
+      },
+      {  "id": 13,
+         "alter_ego":"Ronan",
+         "real_name":"Ronan",
+         "know_more":"http://marvel.com/characters/49/ronan"
+      },
+      {  "id": 14,
+         "alter_ego":"Magneto",
+         "real_name":"Max Eisenhardt",
+         "know_more":"http://marvel.com/characters/35/magneto"
+      },
+      {  "id": 15,
+         "alter_ego":"Thanos",
+         "real_name":"Thanos",
+         "know_more":"http://marvel.com/characters/58/thanos"
+      },
+	  {  "id": 16,
+         "alter_ego":"Black Panther",
+         "real_name":"T'Challa",
+         "know_more":"https://www.marvel.com/characters/black-panther-t-challa"
+      },
+      {  "id": 17,
+         "alter_ego":"HawkEye",
+         "real_name":"Clint Barton",
+         "know_more":"https://www.marvel.com/characters/hawkeye-clint-barton"
+      },
+      {  "id": 18,
+         "alter_ego":"Yon-Rogg",
+         "real_name":"Yon-Rogg",
+         "know_more":"https://www.marvel.com/characters/yon-rogg"
+      }
+   ]
