@@ -13,7 +13,7 @@ A simple RESTful web service created using Java Spring boot with docker. Built u
    - mvn clean package
 
 3. Create a docker image
-   - docker build -t my-web-service
+   - docker build -t my-web-service . 
 
 4. Verify if the image is created ( you should see the name you provided, eg: 'my-web-service' above)
    - docker image ls
